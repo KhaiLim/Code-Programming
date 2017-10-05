@@ -1,3 +1,9 @@
+/* This program is a game with computer pick random number and
+* user should get what number computer picked in 10 turns
+* the range from 1 - 1000
+*/
+
+
 import java.util.Scanner;
 import java.util.Random;
 
